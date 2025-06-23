@@ -48,14 +48,9 @@ To run this project locally, follow these steps:
 1.  **Clone the repository**:
 
     ```bash
-<<<<<<< HEAD
     git clone [https://github.com/NodePulse/house-price-prediction.git]
-=======
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
->>>>>>> b9095ee50867d7eab71d59fc4c9b2c0940d74229
     cd your-repo-name
     ```
-    *(Remember to replace `your-username/your-repo-name.git` with your actual repository URL)*
 
 2.  **Create and activate a virtual environment** (recommended):
 
@@ -114,8 +109,4 @@ Contributions are welcome! If you'd like to improve this project:
 -   [Flask](https://flask.palletsprojects.com/): Python micro web framework.
 -   [Scikit-learn](https://scikit-learn.org/): Machine learning library for Python.
 -   [Render](https://render.com/): Cloud platform for deploying web services.
-<<<<<<< HEAD
 -   [Gunicorn](https://gunicorn.org/): Python WSGI HTTP Server for UNIX.
-=======
--   [Gunicorn](https://gunicorn.org/): Python WSGI HTTP Server for UNIX.
->>>>>>> b9095ee50867d7eab71d59fc4c9b2c0940d74229
