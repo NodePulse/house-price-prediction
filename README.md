@@ -6,11 +6,6 @@ A simple web application for predicting house prices using a trained Linear Regr
 
 ## 🔗 Live Demo (Coming Soon!)
 
-<<<<<<< HEAD
-=======
-Once your application is deployed on Render, you can replace this placeholder with a direct link to your live app.
-
->>>>>>> b9095ee50867d7eab71d59fc4c9b2c0940d74229
 <p>
   <a href="https://house-price-prediction-sx3z.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20App-House%20Price%20Predictor-blueviolet?style=for-the-badge&logo=render&logoColor=white" alt="Live App Badge" />
@@ -22,7 +17,7 @@ Once your application is deployed on Render, you can replace this placeholder wi
 ## 🖼️ UI Preview (Example - You can add a screenshot later)
 
 
-![UI Preview Placeholder](./public/ui-preview-placeholder.png)
+![UI Preview Placeholder](./public/ui-preview.png)
 
 ---
 
