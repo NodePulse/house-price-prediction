@@ -14,7 +14,7 @@ A simple web application for predicting house prices using a trained Linear Regr
 
 ---
 
-## 🖼️ UI Preview (Example - You can add a screenshot later)
+## 🖼️ UI Preview
 
 
 ![UI Preview Placeholder](./public/ui-preview.png)
