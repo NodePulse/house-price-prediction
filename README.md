@@ -18,7 +18,6 @@ Once your application is deployed on Render, you can replace this placeholder wi
 
 ## 🖼️ UI Preview (Example - You can add a screenshot later)
 
-*(Once your `index.html` is ready and the app is running, you can take a screenshot of your web form and place it here. For now, this is a placeholder.)*
 
 ![UI Preview Placeholder](./public/ui-preview-placeholder.png)
 
