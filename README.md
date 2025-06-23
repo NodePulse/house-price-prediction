@@ -6,6 +6,11 @@ A simple web application for predicting house prices using a trained Linear Regr
 
 ## 🔗 Live Demo (Coming Soon!)
 
+<<<<<<< HEAD
+=======
+Once your application is deployed on Render, you can replace this placeholder with a direct link to your live app.
+
+>>>>>>> b9095ee50867d7eab71d59fc4c9b2c0940d74229
 <p>
   <a href="https://house-price-prediction-sx3z.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20App-House%20Price%20Predictor-blueviolet?style=for-the-badge&logo=render&logoColor=white" alt="Live App Badge" />
@@ -48,7 +53,11 @@ To run this project locally, follow these steps:
 1.  **Clone the repository**:
 
     ```bash
+<<<<<<< HEAD
     git clone [https://github.com/NodePulse/house-price-prediction.git]
+=======
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+>>>>>>> b9095ee50867d7eab71d59fc4c9b2c0940d74229
     cd your-repo-name
     ```
     *(Remember to replace `your-username/your-repo-name.git` with your actual repository URL)*
@@ -110,4 +119,8 @@ Contributions are welcome! If you'd like to improve this project:
 -   [Flask](https://flask.palletsprojects.com/): Python micro web framework.
 -   [Scikit-learn](https://scikit-learn.org/): Machine learning library for Python.
 -   [Render](https://render.com/): Cloud platform for deploying web services.
+<<<<<<< HEAD
 -   [Gunicorn](https://gunicorn.org/): Python WSGI HTTP Server for UNIX.
+=======
+-   [Gunicorn](https://gunicorn.org/): Python WSGI HTTP Server for UNIX.
+>>>>>>> b9095ee50867d7eab71d59fc4c9b2c0940d74229
